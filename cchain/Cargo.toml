@@ -9,5 +9,10 @@ edition = "2018"
 
 blake2 = "*"
 
+[lib]
+
+name = "blockchain"
+path = "./bchain/lib.rs"
+
 
 
